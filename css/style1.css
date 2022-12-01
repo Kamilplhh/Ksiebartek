@@ -1,0 +1,21 @@
+
+body {
+	background: #54291a;
+
+}
+
+
+
+.panel
+{ 	
+	margin-top: 200px;
+	display: flex;
+  align-items: center;
+  justify-content: center;
+  	flex-direction: column;
+	width: 360px;
+	margin-left: 40%;
+	border: 2px solid black;
+	min-height: 160px;
+
+}
